@@ -41,7 +41,7 @@ const About: React.FC<AboutType> = (props) => {
           >
             <img
               className="w-full object-cover shadow rounded-xl  "
-              src={"galery/produtores.png"}
+              src={"galery/produtores.jpg"}
               alt="Imagem aleatória"
             />
             <figcaption
@@ -79,7 +79,7 @@ const About: React.FC<AboutType> = (props) => {
             >
               <img
                 className="w-full object-cover shadow rounded-xl  "
-                src={"galery/produtores.png"}
+                src={"galery/produtores.jpg"}
                 alt="Imagem aleatória"
               />
               <figcaption

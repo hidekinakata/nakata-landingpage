@@ -20,17 +20,17 @@ const Featured: React.FC<FeaturedType> = (props) => {
       >
         <Card
           name={"Sushi"}
-          src={"/galery/sushi.png"}
+          src={"/galery/sushi.jpg"}
           desc={"Sushi tradicional japones"}
         />
         <Card
           name={"Mandioca chips"}
-          src={"/galery/mandioca.png"}
+          src={"/galery/mandioca.jpg"}
           desc={"Mandioca crocante em fatias!"}
         />
         <Card
           name={"Bifun"}
-          src={"/galery/bifun.png"}
+          src={"/galery/bifun.jpg"}
           desc={"Salada de macarrão japones"}
         />
       </div>

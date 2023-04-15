@@ -35,7 +35,7 @@ const Header: React.FC<HeaderType> = (props) => {
         >
           <img
             className="h-full object-cover shadow rounded-xl  "
-            src="/galery/campo_maracuja.png"
+            src="/galery/campo_maracuja.jpg"
             alt="Imagem aleatória"
           />
           <figcaption className={"px-5 py-3 text-center text-xs font-semibold"}>
